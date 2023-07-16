@@ -8,6 +8,9 @@
 - If you don't know how to use BaiduNetdisk / have problem reading Chinese websites, you can try to use this [mega link](https://mega.nz/file/0HJTQJ6L#JsCLpKQOAi-Xq7azVi8O_qLDhcT1gvyiSWq83_4olr8) instead.
 - Start up a issue in this repo to notify me if any of the links in this repo expires.
 
+### Github Release
+- You can directly download from Github Release of ONLY ONE ZIP FILE!!!
+
 ### Baidu NetDisk Festival Update Hash
 ** NOTE: THIS PACK ONLY CONTAINS FESTIVAL CHARTS. PLEASE SCROLL DOWN FOR OTHER CHARTS UNTILL UNIVERSE PLUS OR UTAGE **
 - Following are hash codes for uploaded charts with/without BGA
